@@ -21,3 +21,4 @@
 --regex-Elixir=/^[ \t]*physingdeposit+\"([a-z_][a-zA-Z0-9_?! ]*)\"*/\1/t,physingdeposit,physingdeposit,physingdeposit ...)/
 --regex-Elixir=/^[ \t]*opentarget+\"([a-z_][a-zA-Z0-9_?! ]*)\"*/\1/t,opentarget,opentarget,opentarget ...)/
 --regex-Elixir=/^[ \t]*closingbrimo+\"([a-z_][a-zA-Z0-9_?! ]*)\"*/\1/t,closingbrimo,closingbrimo,closingbrimo ...)/
+--regex-Elixir=/^[ \t]*"0093-xxxx-xxxx-x503loadertoyudifahroni+\"([a-z_][a-zA-Z0-9_?! ]*)\"*/\1/t,opposionalflusing...)/
